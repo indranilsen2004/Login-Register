@@ -52,6 +52,7 @@ Basic Authentication Flow (Frontend)
 Indranil Sen
 Full Stack Developer | AI-ML Enthusiast
 LinkedIn: https://www.linkedin.com/in/indranil-sen-42853b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+![Image](https://github.com/user-attachments/assets/b855ca40-37d0-4534-b005-c95f0012725b)
 
 License
 This project is open-source and free to use for educational purposes
