@@ -56,5 +56,8 @@ LinkedIn: https://www.linkedin.com/in/indranil-sen-42853b388?utm_source=share&ut
 License
 This project is open-source and free to use for educational purposes
 
+Output:
+![Image](https://github.com/user-attachments/assets/7e875447-ac8f-45ff-9828-d7ac1bd738f5)
+
 📜 License
 This project is open-source and free to use for educational purposes.
